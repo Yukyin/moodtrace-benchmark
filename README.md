@@ -1,3 +1,6 @@
+[![HF Dataset](https://img.shields.io/badge/HF-Dataset-yellow)](https://huggingface.co/datasets/Yukyin/moodtrace-20d)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 # MoodTrace Benchmark (v0.1)
 
 MoodTrace is a longitudinal emotion dialogue benchmark scaffold.
