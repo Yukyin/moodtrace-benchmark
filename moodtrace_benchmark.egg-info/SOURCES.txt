@@ -1,9 +1,0 @@
-README.md
-pyproject.toml
-moodtrace_benchmark/__init__.py
-moodtrace_benchmark/core.py
-moodtrace_benchmark.egg-info/PKG-INFO
-moodtrace_benchmark.egg-info/SOURCES.txt
-moodtrace_benchmark.egg-info/dependency_links.txt
-moodtrace_benchmark.egg-info/requires.txt
-moodtrace_benchmark.egg-info/top_level.txt
