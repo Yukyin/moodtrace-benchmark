@@ -1,0 +1,13 @@
+{
+  "benchmark": "MoodTrace-20D",
+  "evaluator": "mock",
+  "records": 955,
+  "user_text_empty": 56,
+  "user_text_empty_rate": 0.05863874345549738,
+  "user_duration_count": 950,
+  "user_duration_sec_p50": 14,
+  "user_duration_sec_p90": 74,
+  "user_duration_sec_p99": 194,
+  "avg_user_chars": 234.22303664921466,
+  "avg_assistant_chars": 336.4
+}
