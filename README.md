@@ -1,13 +1,13 @@
 [![HF Dataset](https://img.shields.io/badge/HF-Dataset-yellow)](https://huggingface.co/datasets/Yukyin/moodtrace-20d)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-# MoodTrace Benchmark (v0.1)
+# MoodTrace Benchmark (v1.0)
 
 MoodTrace is a longitudinal emotion dialogue benchmark scaffold.
 
 This package provides:
 - `load_dataset(name, data_path=..., max_records=...)` to load a pair-level JSONL dataset
-- `EmotionalEval(model).evaluate(ds)` to run a minimal **stats-only** evaluation (no LLM calls in v0.1)
+- `EmotionalEval(model).evaluate(ds)` to run a minimal **stats-only** evaluation (no LLM calls in v1.0)
 
 Dataset: https://huggingface.co/datasets/Yukyin/moodtrace-20d
 
@@ -55,7 +55,7 @@ PY
 
 - Dataset name: `MoodTrace-20D`
 - Input format: JSONL, one record per line (pair-level).
-- v0.1 only computes dataset statistics. Future versions will add model generation + LLM-judge metrics (e.g., empathy, actionability).
+- v1.0 only computes dataset statistics. Future versions will add model generation + LLM-judge metrics (e.g., empathy, actionability).
 
 ## Citation
 
