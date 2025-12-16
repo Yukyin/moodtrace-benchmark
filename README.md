@@ -62,7 +62,7 @@ PY
 ```bibtex
 @misc{moodtrace2025,
   title        = {MoodTrace Benchmark v1.0},
-  author       = {Yukyin},
+  author       = {Yuyan Chen},
   year         = {2025},
   howpublished = {\url{https://github.com/Yukyin/moodtrace-benchmark}},
   note         = {Dataset: \url{https://huggingface.co/datasets/Yukyin/moodtrace-20d}},
