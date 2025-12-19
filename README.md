@@ -68,4 +68,14 @@ PY
   note         = {Dataset: \url{https://huggingface.co/datasets/Yukyin/moodtrace-20d}},
   version      = {v1.0}
 }
+```
+
+## License
+
+This project is licensed under the PolyForm Noncommercial License 1.0.0.
+
+- Noncommercial use, including academic and research use, is permitted under the license.
+- Commercial use is not permitted under this license and requires a separate commercial agreement.
+
+See `LICENSE` and `NOTICE` for details. If you need commercial licensing, contact the maintainer at <yolandachen0313@gmail.com>.
 
